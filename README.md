@@ -1,2 +1,1 @@
-# file-upload-php
-File upload in PHP
+# File upload in PHP
